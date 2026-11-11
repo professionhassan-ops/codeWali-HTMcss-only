@@ -1129,6 +1129,10 @@
     .lg\:pb-24 {
       padding-bottom: calc(var(--spacing) * 24);
     }
+    .lg\:text-5xl {
+      font-size: var(--text-5xl);
+      line-height: var(--tw-leading, var(--text-5xl--line-height));
+    }
     .lg\:text-7xl {
       font-size: var(--text-7xl);
       line-height: var(--tw-leading, var(--text-7xl--line-height));
